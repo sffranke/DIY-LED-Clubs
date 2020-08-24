@@ -2,7 +2,7 @@
 
 Do It Yourself - Making LED-Clubs out of existing normal white juggeling clubs
 
-<img src="1-club.jpg width="400">
+<img src="img/1-club.jpg width="400">
 
 For 3 clubs we need: Jugggeling Clubs, I have old clubs that I bought a few years ago from Mr. Oddball at a convention in the Netherlands for 10 € a piece.
 
@@ -20,6 +20,6 @@ LED Stripes: 32 € (4 pieces) https://www.amazon.de/gp/your-account/order-histo
 
 In total these are +- 111 € for 3 Clubs
 
-<img src="done.jpg width="400">
+<img src="img/done.jpg width="400">
 
 More to come
