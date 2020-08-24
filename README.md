@@ -28,6 +28,7 @@ In total these are +- 111 € for 3 Clubs
 
 Solder the wires to the Li-Ion Accu<br>
 <img src="img/2-10180.jpg" width="200" raw=true alt="Accu 10180" style="margin-right: 10px;" />
+
 Roughen the surface for quick soldering<br>
 <img src="img/3-brush.jpg" width="200" raw=true alt="Accu 10180 brush" style="margin-right: 10px;" />
 
