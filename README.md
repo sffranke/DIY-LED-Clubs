@@ -2,7 +2,7 @@
 
 Do It Yourself - Making LED-Clubs out of existing normal white juggeling clubs
 
-<img src="img/1-club.jpg width="400">
+<img src="https://github.com/sffranke/DIY-LED-Clubs/blob/master/img/1-club.jpg width="400">
 
 For 3 clubs we need: Jugggeling Clubs, I have old clubs that I bought a few years ago from Mr. Oddball at a convention in the Netherlands for 10 € a piece.
 
