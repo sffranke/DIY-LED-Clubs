@@ -3,7 +3,7 @@
 Do It Yourself - Making LED-Clubs out of existing normal white juggeling clubs
 
 <img
-src="img/1-club.jpg width="400""
+src="img/1-club.jpg width="400"
 raw=true
 alt="Club"
 style="margin-right: 10px; width: 400px;"
