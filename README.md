@@ -2,9 +2,8 @@
 
 Do It Yourself - Making LED-Clubs out of existing normal white juggeling clubs
 
-<img src="https://github.com/sffranke/DIY-LED-Clubs/blob/master/img/1-club.jpg width="400">
 <img
-src="img/1-club.jpg"
+src="img/1-club.jpg width="400""
 raw=true
 alt="Club"
 style="margin-right: 10px; width: 400px;"
