@@ -48,19 +48,24 @@ Connect the Accu, connector, switch and controller as shown<br>
 The switch need some extra space<br>
 <img src="img/10-cutaway.jpg " width="200" raw=true alt="Tube cutaway" style="margin-right: 10px;" />
 
-cccc<br>
+"Fold" the strip and put it into the tube<br>
 <img src="img/11-put-in-this-way.jpg " width="200" raw=true alt="pu in this way" style="margin-right: 10px;" />
 
 <img src="img/12-thisway.jpg" width="200" raw=true alt="put in" style="margin-right: 10px;" />
 
+Ready for get hot glued<br>
 <img src="img/13-before-hg.jpg " width="200" raw=true alt="before" style="margin-right: 10px;" />
 
+Hot glued top, just stick 5-7 mm glue stick in it ti fixate the strip<br>
 <img src="img/14-hgtop.jpg " width="200" raw=true alt="hotglue top" style="margin-right: 10px;" />
 
+A 4 mm dowel for mounting the knob later<br> 
 <img src="img/15hg-knob-with-dowel.jpg " width="200" raw=true alt="hotglue knob" style="margin-right: 10px;" />
 
+Knob end parts fixated with tinkers friend hotglue<br>
 <img src="img/16-hg-knob.jpg " width="200" raw=true alt="knob" style="margin-right: 10px;" />
 
+Now we take apart our club to replace the wooden stick with the electrified tube<br>
 <img src="img/20-apart.jpg " width="200" raw=true alt="apart" style="margin-right: 10px;" />
 
 <img src="img/21-apart.jpg " width="200" raw=true alt="apart2" style="margin-right: 10px;" />
@@ -75,16 +80,19 @@ cccc<br>
 
 <img src="img/26-apart.jpg " width="200" raw=true alt="apart6" style="margin-right: 10px;" />
 
+Repacing<br>
 <img src="img/30-new.jpg  " width="200" raw=true alt="new club" style="margin-right: 10px;" />
 
 <img src="img/31-new.jpg  " width="200" raw=true alt="new club1" style="margin-right: 10px;" />
 
 <img src="img/32-new.jpg  " width="200" raw=true alt="new club2" style="margin-right: 10px;" />
 
+And tape it
 <img src="img/40-tape.jpg   " width="200" raw=true alt="new club taped" style="margin-right: 10px;" />
 
 <img src="img/41-tape.jpg   " width="200" raw=true alt="new club taped2" style="margin-right: 10px;" />
 
+Thats it.<br>
 <img
 src="img/done.jpg"
 width="200"
@@ -93,7 +101,3 @@ alt="Club done"
 style="margin-right: 10px;"
 />
 
-
- 
-
-More to come
