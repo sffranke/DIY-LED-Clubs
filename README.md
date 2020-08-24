@@ -10,7 +10,7 @@ For 3 clubs we need: Jugggeling Clubs, I have old clubs that I bought a few year
 
 3 Connectors 6.99 € (20 pcs) https://www.amazon.de/gp/product/B06WGM9W7S/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1
 
-3x50cm Acryl Tuce 16/12 12 € (2x1m) https://www.amazon.de/gp/product/B00A9HCFDY/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1
+3x50cm Acryl Tube 16/12 12 € (2x1m) https://www.amazon.de/gp/product/B00A9HCFDY/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1
 
 1A 5V Micro USB Charger: 6.99 € (5 pieces) https://www.amazon.de/gp/product/B077XW1XBJ/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1
 
