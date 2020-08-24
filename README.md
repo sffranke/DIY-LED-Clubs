@@ -27,7 +27,7 @@ LED Stripes: 32 € (4 pieces) https://www.amazon.de/gp/your-account/order-histo
 In total these are +- 111 € for 3 Clubs
 
 <img
-src="img/2-10180.jpg.jpg"
+src="img/2-10180.jpg"
 width="200"
 raw=true
 alt="Accu 10180"
