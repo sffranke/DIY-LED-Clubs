@@ -56,7 +56,7 @@ The switch need some extra space<br>
 Ready for get hot glued<br>
 <img src="img/13-before-hg.jpg " width="200" raw=true alt="before" style="margin-right: 10px;" />
 
-Hot glued top, just stick 5-7 mm glue stick in it ti fixate the strip<br>
+Hot glued top, just stick 5-7 mm glue stick in it to fix the strip<br>
 <img src="img/14-hgtop.jpg " width="200" raw=true alt="hotglue top" style="margin-right: 10px;" />
 
 A 4 mm dowel for mounting the knob later<br> 
@@ -72,7 +72,7 @@ Now we take apart our club to replace the wooden stick with the electrified tube
 
 <img src="img/22-apart.jpg " width="200" raw=true alt="apart2" style="margin-right: 10px;" />
 
-Remove the cramps<br>
+Remove the clamps<br>
 <img src="img/23-apart.jpg " width="200" raw=true alt="apart3" style="margin-right: 10px;" />
 
 <img src="img/24-apart.jpg " width="200" raw=true alt="apart4" style="margin-right: 10px;" />
@@ -86,6 +86,7 @@ Repacing<br>
 
 <img src="img/31-new.jpg  " width="200" raw=true alt="new club1" style="margin-right: 10px;" />
 
+Fix it with 2 clamps<br>
 <img src="img/32-new.jpg  " width="200" raw=true alt="new club2" style="margin-right: 10px;" />
 
 And tape it<br>
