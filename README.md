@@ -70,6 +70,17 @@ In total these are +- 111 € for 3 Clubs
 <img src="img/25-apart.jpg " width="200" raw=true alt="apart5" style="margin-right: 10px;" />
 
 <img src="img/26-apart.jpg " width="200" raw=true alt="apart6" style="margin-right: 10px;" />
+
+<img src="img/30-new.jpg  " width="200" raw=true alt="new club" style="margin-right: 10px;" />
+
+<img src="img/31-new.jpg  " width="200" raw=true alt="new club1" style="margin-right: 10px;" />
+
+<img src="img/32-new.jpg  " width="200" raw=true alt="new club2" style="margin-right: 10px;" />
+
+<img src="img/40-tape.jpg   " width="200" raw=true alt="new club taped" style="margin-right: 10px;" />
+
+<img src="img/41-tape.jpg   " width="200" raw=true alt="new club taped2" style="margin-right: 10px;" />
+
 <img
 src="img/done.jpg"
 width="200"
