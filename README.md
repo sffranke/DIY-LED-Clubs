@@ -25,6 +25,7 @@ LED Stripes: 32 € (4 pieces) https://www.amazon.de/gp/your-account/order-histo
 3 Li-Ion Accu 10180: 36 € https://www.amazon.de/Li-ion-Schutzelektronik-passend-UC02SS-Taschenlampe/dp/B01MY8R3TH/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=fenix+akku+10180&qid=1598276226&sr=8-1
 
 In total these are +- 111 € for 3 Clubs
+
 <img
 src="img/done.jpg"
 width="200"
