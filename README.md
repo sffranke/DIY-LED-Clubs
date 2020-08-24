@@ -28,10 +28,28 @@ In total these are +- 111 € for 3 Clubs
 
 <img src="img/2-10180.jpg" width="200" raw=true alt="Accu 10180" style="margin-right: 10px;" />
 
-<img src="img/3-brush.jpg" width="200" raw=true alt="Accu 10180" style="margin-right: 10px;" />
+<img src="img/3-brush.jpg" width="200" raw=true alt="Accu 10180 brush" style="margin-right: 10px;" />
 
 <img src="img/4-accu-soldered.jpg" width="200" raw=true alt="Accu 10180 soldered" style="margin-right: 10px;" />
 
+
+<img src="img/5-controller.jpg " width="200" raw=true alt="controller" style="margin-right: 10px;" />
+
+<img src="img/6-controller2.jpg " width="200" raw=true alt="controller2" style="margin-right: 10px;" />
+
+<img src="img/7-controller.jpg" width="200" raw=true alt="controller" style="margin-right: 10px;" />
+
+<img src="img/8-electr.jpg" width="200" raw=true alt="Electric" style="margin-right: 10px;" />
+
+<img src="img/9-elec-in-tube.jpg " width="200" raw=true alt="Electric in tube" style="margin-right: 10px;" />
+
+<img src="img/10-cutaway.jpg " width="200" raw=true alt="Tube cutaway" style="margin-right: 10px;" />
+
+<img src="img/11-put-in-this-way.jpg " width="200" raw=true alt="pu in this way" style="margin-right: 10px;" />
+
+<img src="img/12-thisway.jpg" width="200" raw=true alt="put in" style="margin-right: 10px;" />
+
+<img src="img/4-accu-soldered.jpg" width="200" raw=true alt="Accu 10180 soldered" style="margin-right: 10px;" />
 <img
 src="img/done.jpg"
 width="200"
