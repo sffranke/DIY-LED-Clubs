@@ -26,7 +26,7 @@ LED Stripes: 32 € (4 pieces) https://www.amazon.de/gp/your-account/order-histo
 
 In total these are +- 111 € for 3 Clubs
 
-Solder the wires to the Li-Ion Accu<br>
+Solder the wires to the Li-Ion accu<br>
 <img src="img/2-10180.jpg" width="200" raw=true alt="Accu 10180" style="margin-right: 10px;" />
 
 Roughen the surface for quick soldering<br>
@@ -41,7 +41,7 @@ Prepare the LED controller<br>
 
 <img src="img/7-controller.jpg" width="200" raw=true alt="controller" style="margin-right: 10px;" />
 
-Connect the Accu, connector, switch and controller as shown<br>
+Connect the accu, connector, switch and controller as shown<br>
 <img src="img/8-electr.jpg" width="200" raw=true alt="Electric" style="margin-right: 10px;" />
 
 <img src="img/9-elec-in-tube.jpg " width="200" raw=true alt="Electric in tube" style="margin-right: 10px;" />
@@ -63,7 +63,7 @@ Hot glued top, just stick 5-7 mm glue stick in it to fix the strip<br>
 A 4 mm dowel for mounting the knob later<br> 
 <img src="img/15hg-knob-with-dowel.jpg " width="200" raw=true alt="hotglue knob" style="margin-right: 10px;" />
 
-Knob end parts fixated with tinkers friend hotglue<br>
+Knob end parts fixed with tinkers friend hotglue<br>
 <img src="img/16-hg-knob.jpg " width="200" raw=true alt="knob" style="margin-right: 10px;" />
 
 Now we take apart our club to replace the wooden stick with the electrified tube<br>
