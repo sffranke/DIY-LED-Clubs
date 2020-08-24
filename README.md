@@ -72,6 +72,7 @@ Now we take apart our club to replace the wooden stick with the electrified tube
 
 <img src="img/22-apart.jpg " width="200" raw=true alt="apart2" style="margin-right: 10px;" />
 
+Remove the cramps<br>
 <img src="img/23-apart.jpg " width="200" raw=true alt="apart3" style="margin-right: 10px;" />
 
 <img src="img/24-apart.jpg " width="200" raw=true alt="apart4" style="margin-right: 10px;" />
@@ -87,7 +88,7 @@ Repacing<br>
 
 <img src="img/32-new.jpg  " width="200" raw=true alt="new club2" style="margin-right: 10px;" />
 
-And tape it
+And tape it<br>
 <img src="img/40-tape.jpg   " width="200" raw=true alt="new club taped" style="margin-right: 10px;" />
 
 <img src="img/41-tape.jpg   " width="200" raw=true alt="new club taped2" style="margin-right: 10px;" />
