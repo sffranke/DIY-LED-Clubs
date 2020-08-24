@@ -82,7 +82,7 @@ Remove the clamps<br>
 
 <img src="img/26-apart.jpg " width="200" raw=true alt="apart6" style="margin-right: 10px;" />
 
-Repacing<br>
+Replacing<br>
 <img src="img/30-new.jpg  " width="200" raw=true alt="new club" style="margin-right: 10px;" />
 
 <img src="img/31-new.jpg  " width="200" raw=true alt="new club1" style="margin-right: 10px;" />
