@@ -49,7 +49,27 @@ In total these are +- 111 € for 3 Clubs
 
 <img src="img/12-thisway.jpg" width="200" raw=true alt="put in" style="margin-right: 10px;" />
 
-<img src="img/4-accu-soldered.jpg" width="200" raw=true alt="Accu 10180 soldered" style="margin-right: 10px;" />
+<img src="img/13-before-hg.jpg " width="200" raw=true alt="before" style="margin-right: 10px;" />
+
+<img src="img/14-hgtop.jpg " width="200" raw=true alt="hotglue top" style="margin-right: 10px;" />
+
+<img src="img/15hg-knob-with-dowel.jpg " width="200" raw=true alt="hotglue knob" style="margin-right: 10px;" />
+
+<img src="img/16-hg-knob.jpg " width="200" raw=true alt="knob" style="margin-right: 10px;" />
+
+<img src="img/20-apart.jpg " width="200" raw=true alt="apart" style="margin-right: 10px;" />
+
+<img src="img/21-apart.jpg " width="200" raw=true alt="apart2" style="margin-right: 10px;" />
+
+<img src="img/22-apart.jpg " width="200" raw=true alt="apart2" style="margin-right: 10px;" />
+
+<img src="img/23-apart.jpg " width="200" raw=true alt="apart3" style="margin-right: 10px;" />
+
+<img src="img/24-apart.jpg " width="200" raw=true alt="apart4" style="margin-right: 10px;" />
+
+<img src="img/25-apart.jpg " width="200" raw=true alt="apart5" style="margin-right: 10px;" />
+
+<img src="img/26-apart.jpg " width="200" raw=true alt="apart6" style="margin-right: 10px;" />
 <img
 src="img/done.jpg"
 width="200"
