@@ -31,19 +31,15 @@ Solder the wires to the Li-Ion accu<br>
 
 Roughen the surface for quick soldering<br>
 <img src="img/3-brush.jpg" width="200" raw=true alt="Accu 10180 brush" style="margin-right: 10px;" />
-
 <img src="img/4-accu-soldered.jpg" width="200" raw=true alt="Accu 10180 soldered" style="margin-right: 10px;" />
 
 Prepare the LED controller<br>
 <img src="img/5-controller.jpg " width="200" raw=true alt="controller" style="margin-right: 10px;" />
-
 <img src="img/6-controller2.jpg " width="200" raw=true alt="controller2" style="margin-right: 10px;" />
-
 <img src="img/7-controller.jpg" width="200" raw=true alt="controller" style="margin-right: 10px;" />
 
 Connect the accu, connector, switch and controller as shown<br>
 <img src="img/8-electr.jpg" width="200" raw=true alt="Electric" style="margin-right: 10px;" />
-
 <img src="img/9-elec-in-tube.jpg " width="200" raw=true alt="Electric in tube" style="margin-right: 10px;" />
 
 The switch need some extra space<br>
@@ -51,7 +47,6 @@ The switch need some extra space<br>
 
 "Fold" the strip and put it into the tube<br>
 <img src="img/11-put-in-this-way.jpg " width="200" raw=true alt="pu in this way" style="margin-right: 10px;" />
-
 <img src="img/12-thisway.jpg" width="200" raw=true alt="put in" style="margin-right: 10px;" />
 
 Ready for get hot glued<br>
@@ -68,23 +63,17 @@ Knob end parts fixed with tinkers friend hotglue<br>
 
 Now we take apart our club to replace the wooden stick with the electrified tube<br>
 <img src="img/20-apart.jpg " width="200" raw=true alt="apart" style="margin-right: 10px;" />
-
 <img src="img/21-apart.jpg " width="200" raw=true alt="apart2" style="margin-right: 10px;" />
-
 <img src="img/22-apart.jpg " width="200" raw=true alt="apart2" style="margin-right: 10px;" />
 
 Remove the clamps<br>
 <img src="img/23-apart.jpg " width="200" raw=true alt="apart3" style="margin-right: 10px;" />
-
 <img src="img/24-apart.jpg " width="200" raw=true alt="apart4" style="margin-right: 10px;" />
-
 <img src="img/25-apart.jpg " width="200" raw=true alt="apart5" style="margin-right: 10px;" />
-
 <img src="img/26-apart.jpg " width="200" raw=true alt="apart6" style="margin-right: 10px;" />
 
 Replacing<br>
 <img src="img/30-new.jpg  " width="200" raw=true alt="new club" style="margin-right: 10px;" />
-
 <img src="img/31-new.jpg  " width="200" raw=true alt="new club1" style="margin-right: 10px;" />
 
 Fix it with 2 clamps<br>
@@ -92,7 +81,6 @@ Fix it with 2 clamps<br>
 
 And tape it<br>
 <img src="img/40-tape.jpg   " width="200" raw=true alt="new club taped" style="margin-right: 10px;" />
-
 <img src="img/41-tape.jpg   " width="200" raw=true alt="new club taped2" style="margin-right: 10px;" />
 
 I charge it via the little connector. If you are using the same charger I use don't forget to replace the resistor, with the original resistor you charge with one ampere, this is too much for the small battery. I use R3=10 K.<br>
