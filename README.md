@@ -9,7 +9,7 @@ raw=true
 alt="Club"
 style="margin-right: 10px;"
 />
-<img src="img/led.gif" width="400" raw=true alt="led gif animation" style="margin-right: 10px;" />
+<img src="img/led.gif" width="380" raw=true alt="led gif animation" style="margin-right: 10px;" />
 
 For 3 clubs we need: Jugggeling Clubs, I have old clubs that I bought a few years ago from Mr. Oddball at a convention in the Netherlands for 10 € a piece.
 
