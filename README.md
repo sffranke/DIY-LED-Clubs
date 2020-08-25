@@ -101,4 +101,5 @@ style="margin-right: 10px;"
 <img src="img/remote.jpg   " width="200" raw=true alt="remote" style="margin-right: 10px;" />
 
 Links:<br>
-https://www.youtube.com/watch?v=mahqadb1gAk
+A small video: https://youtu.be/es1-0ZJwWkk
+Inspired by https://www.youtube.com/watch?v=mahqadb1gAk
