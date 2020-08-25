@@ -66,7 +66,7 @@ Now we take apart our club to replace the wooden stick with the electrified tube
 <img src="img/21-apart.jpg " width="200" raw=true alt="apart2" style="margin-right: 10px;" />
 <img src="img/22-apart.jpg " width="200" raw=true alt="apart2" style="margin-right: 10px;" />
 
-Remove the clamps<br>
+Remove the clamps and take out the wooden stick<br>
 <img src="img/23-apart.jpg " width="200" raw=true alt="apart3" style="margin-right: 10px;" />
 <img src="img/24-apart.jpg " width="200" raw=true alt="apart4" style="margin-right: 10px;" />
 <img src="img/25-apart.jpg " width="200" raw=true alt="apart5" style="margin-right: 10px;" />
