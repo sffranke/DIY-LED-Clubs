@@ -98,6 +98,9 @@ And tape it<br>
 I charge it via the little connector. If you are using the same charger I use don't forget to replace the resistor, with the original resistor you charge with one ampere, this is too much for the small battery. I use R3=10 K.<br>
 <img src="img/charger.jpg   " width="200" raw=true alt="charger" style="margin-right: 10px;" />
 
+You have to take off the knob for charging! To switch on and off you can put a thin pin through a small drilled hole in the knob.
+You have to disconnect the battery when the clubs are not in use from the power circuit, because even if the controller is switched off, the circuit consumes a small amount of current and drains the battery.
+
 Thats it.<br>
 <img
 src="img/done.jpg"
