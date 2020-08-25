@@ -95,6 +95,9 @@ And tape it<br>
 
 <img src="img/41-tape.jpg   " width="200" raw=true alt="new club taped2" style="margin-right: 10px;" />
 
+I charge it via the little connector. If you are using the same charger I use don't forget to replace the resistor, with the original resistor you charge with one ampere, this is too much for the small battery. I use R3=10 K.<br>
+<img src="img/charger.jpg   " width="200" raw=true alt="charger" style="margin-right: 10px;" />
+
 Thats it.<br>
 <img
 src="img/done.jpg"
