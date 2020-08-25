@@ -97,6 +97,7 @@ raw=true
 alt="Club done"
 style="margin-right: 10px;"
 />
+<img src="img/remote.jpg   " width="200" raw=true alt="remote" style="margin-right: 10px;" />
 
 Links:<br>
 https://www.youtube.com/watch?v=mahqadb1gAk
